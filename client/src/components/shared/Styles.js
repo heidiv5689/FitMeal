@@ -86,7 +86,7 @@ box-shadow: 0px 2px 10px rgba(41, 43, 77, 0.1);
 padding: 30px;
 `
 export const EditFolow = styled.div`
- margin-top: -99%;
+ margin-top: -89%;
  margin-left: 55%;
  display: flex;
  gap: 5px;

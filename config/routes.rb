@@ -24,6 +24,7 @@ Rails.application.routes.draw do
 
     get '/popularWorkouts', to: 'workouts#popular'
     get '/newestWorkouts', to: 'workouts#newest'
-    
   end
+
+  get '*other', to: 'static#index'
 end
