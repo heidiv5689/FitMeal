@@ -71,7 +71,8 @@ const Team = () => (
         <TeamImage variant="top" src="./images/3.jpg" />
         <Card.Body>
           <Card.Title>Heidi Villa</Card.Title>
-          <TeamLink href="https://github.com/briankershisnik"><AiFillGithub /></TeamLink>
+          <TeamLink href="https://github.com/heidiv5689"><AiFillGithub /></TeamLink>
+          <TeamLink href="https://www.linkedin.com/in/heidi-villa/"><AiFillLinkedin /> </TeamLink>
           <TeamLink href="heidiv5689@gmail.com"><AiOutlineMail /></TeamLink>
           <Card.Text>
           Heidi is a junior developer with a background in pharmacy.
